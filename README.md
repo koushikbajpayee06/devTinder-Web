@@ -10,11 +10,14 @@
 - Create BrowserRouter > Routes > Route=/ Body >RouteChildren
 - Create an Outelt in your Body Component
 - Create a footer
-- 
-
-Body
+<!-- Body
     NavBar
     Route=/      => Feed
     Route=/login => Login
     Route=/connections => Connections
-    Route=/profile => profile
+    Route=/profile => profile -->
+
+## Class-2
+- Create a Login Page
+- 
+
