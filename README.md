@@ -24,4 +24,8 @@
 - Whenever you making API Call so pass axious=>{withCredientials:true}
 - nstall react-redux + @reduxjs/toolkit - https://redux-toolkit.js.org/tutorials/quick-start
 - configureStore => Provider => createSlice => add reducer to store
+- Add redux devtool into the chrome
+- Login and see if your data is coming properly in the store
+- Navbar should update as soon as user logs in
+- Refactorour code to add constants file + create a components folder
 
