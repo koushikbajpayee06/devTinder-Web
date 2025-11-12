@@ -19,5 +19,6 @@
 
 ## Class-2
 - Create a Login Page
-- 
+- Install axios
+- CORS - install cors in backend => add middleware to app with configurations: Origin, credentials:true
 
